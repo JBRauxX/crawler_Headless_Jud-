@@ -1,0 +1,14 @@
+pandas
+numpy
+scrapy
+schedule
+requests
+httpx
+dnspython
+beautifulsoup4
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
+gspread
+requests-html

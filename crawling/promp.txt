@@ -1,0 +1,6 @@
+1. d jalankan di vps 1 core dan 1 gb ram, jadi headless!
+2. Perlu d lakukan 3 kali sehari pagi,siang, sore setiap hari dan jika satus d blokir maka buatkan tanda, 
+d spreadsheet yg tadi, kalo bisa autmate, sebagai outputnya berdasarkan status link yg terblokir, bagaimana
+3. Dan waktu nya juga ada kolom waktu dan tgl yg perlu d perbaharui,
+4. apakah web crawling bisa mengetahui sistus nawala dan di blokir ISP 
+5. apakah yakin pasti web crawling dapat mendeteksi jika nawala atau di blokir oleh internet provider

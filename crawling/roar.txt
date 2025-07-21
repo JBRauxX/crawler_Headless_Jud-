@@ -1,0 +1,4 @@
+docker run --rm -it -v /home/jbrauxxx/Documents/crawling:/home/jbrauxxx/Documents/crawling python:latest bash
+
+
+docker run --rm -it -v /home/jbrauxxx/Documents/crawling:/home/jbrauxxx/Documents/crawling my-python3:latest bash 
